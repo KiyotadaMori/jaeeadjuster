@@ -11,7 +11,7 @@ Second, it converte from English to Japanese katakana using a Katakana-English d
 
 Third, it conduct phoneme segmentation using Julius & transcripts from English for Japanese-accented English 
 
-Fourth, it search similar points of words
+Fourth, it search similar points of words between Japanese-accented English & English
 
 Fifth, it adjust start points of words by accelerating audio
 
