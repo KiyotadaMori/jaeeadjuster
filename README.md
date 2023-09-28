@@ -20,7 +20,7 @@ The following are the overall processes.
 
 As a result, it made audio files of Japanease-accented English which have identical durations of words, ideally  
 
-# sample reesult
+# Sample result
 Showing onset as red lines of audios
 Japanese-accented English
 
