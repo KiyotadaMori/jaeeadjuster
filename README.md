@@ -18,7 +18,7 @@ The following are the overall processes.
 As a result, it made audio files of Japanease-accented English which have identical durations of words, ideally  
 
 # sample reesult
-Showing onset of audio
+Showing onset as red lines of audios
 Japanese-accented English
 
 ![2023_09_28_japanese_arctic](images/2023_09_28_japanese_arctic.png)
