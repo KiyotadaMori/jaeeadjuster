@@ -1,6 +1,7 @@
 # jaeeadjuster
 jaeeadjuster (Japanease-accented English and English Adjuster)
 
+
 A tool to adjust durations of words between Japanese-accented English & English
 
 The following are the overall processes.
