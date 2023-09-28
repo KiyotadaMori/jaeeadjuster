@@ -17,5 +17,9 @@ Fifth, it adjust start points of words by accelerating audio
 
 As a result, it made audio files of Japanease-accented English which have identical durations of words, ideally  
 
+# sample reesult
+Showing onset of audio
+
+
 # Lisence
 GPLv2
