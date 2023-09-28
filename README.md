@@ -5,15 +5,15 @@ The following are the overall processes.
 
 ![outline_jaeeadjuster](images/outline_jaeeadjuster.png)
 
-First, it conduct English speech recognition using stable-whisper for English
+1 :it conduct English speech recognition using stable-whisper for English
 
-Second, it converte from English to Japanese katakana using a Katakana-English dictionary or a rule
+2: it converte from English to Japanese katakana using a Katakana-English dictionary or a rule
 
-Third, it conduct phoneme segmentation using Julius & transcripts from English for Japanese-accented English 
+3: it conduct phoneme segmentation using Julius & transcripts from English for Japanese-accented English 
 
-Fourth, it search similar points of words between Japanese-accented English & English
+4: it search similar points of words between Japanese-accented English & English
 
-Fifth, it adjust start points of words by accelerating audio
+5: it adjust start points of words by accelerating audio
 
 As a result, it made audio files of Japanease-accented English which have identical durations of words, ideally  
 
