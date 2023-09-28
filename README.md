@@ -21,9 +21,15 @@ As a result, it made audio files of Japanease-accented English which have identi
 Showing onset of audio
 Japanese-accented English
 
+![2023_09_28_japanese_arctic](https://github.com/KiyotadaMori/jaeeadjuster/assets/145077560/f7e52038-8ad8-402f-b2ef-0f860139c257)
+
 American English
 
+![2023_09_28_matthew](https://github.com/KiyotadaMori/jaeeadjuster/assets/145077560/c3c0693b-3b8b-4b9c-bec9-4088f493ac6b)
+
 Adjusted Japanse-accented English
+
+![2023_09_28_takumi_adjusted](https://github.com/KiyotadaMori/jaeeadjuster/assets/145077560/d7d2d4bf-4b20-412d-9bf5-bf8e07c6df58)
 
 # Lisence
 GPLv2
