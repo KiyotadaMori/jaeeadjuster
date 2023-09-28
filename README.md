@@ -19,7 +19,11 @@ As a result, it made audio files of Japanease-accented English which have identi
 
 # sample reesult
 Showing onset of audio
+Japanese-accented English
 
+American English
+
+Adjusted Japanse-accented English
 
 # Lisence
 GPLv2
