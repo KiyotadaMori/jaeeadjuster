@@ -27,7 +27,7 @@ American English
 
 ![2023_09_28_matthew](images/2023_09_28_matthew.png)
 
-Adjusted Japanse-accented English
+Adjusted Japanese-accented English
 
 ![2023_09_28_takumi_adjusted](images/2023_09_28_takumi_adjusted.png)
 
